@@ -10,6 +10,7 @@
 ---
 # _Housekeeping_
 
+   * Code of Conduct! github.com/pdx-ios/policies
    * CocoaHeads meeting tomorrow night at Walmart Labs with Scott Neal talking about CoreData
    * More regular meeting dates: 2nd Wednesday of every month?
    * Next meeting topic ideas?
@@ -22,7 +23,7 @@
 
 ## [fit] 6th Floor
 
-### Tweet at __@aranasaurus__ or text __503-867-2160__ if the doors are locked!
+### Tweet at __@mbcharbonneau__ or text __585-414-2431__ if the doors are locked!
 
 ---
 
