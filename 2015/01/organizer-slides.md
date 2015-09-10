@@ -23,7 +23,7 @@
 
 ## [fit] 6th Floor
 
-### Tweet at __@mbcharbonneau__ or text __585-414-2431__ if the doors are locked!
+### Tweet at __@aranasaurus__ or text __503-741-9366__ if you can't get in.
 
 ---
 
