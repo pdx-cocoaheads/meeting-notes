@@ -1,4 +1,6 @@
 
+[Video of the presentation](https://www.youtube.com/watch?v=gcEo5oz3Gpo)
+
   * Next Meeting topic ideas:
      * Another Swift Workshop was a fairly popular idea
      * Scott Smith offered to do followup talk to his MapKit talk, MapKit Part 2, or an intro to CoreData.
